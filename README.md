@@ -1,3 +1,7 @@
+This is a fork with fixed git files history, broken in 
+https://github.com/parse-community/Parse-SDK-Android/commit/cedc1dfb03348761688d5abd87c552a1b9cd4b19
+
+
 # Parse SDK for Android
 
 [![License](https://img.shields.io/badge/license-BSD-lightgrey.svg)](https://github.com/parse-community/Parse-SDK-Android/blob/master/LICENSE) [![Build Status](https://travis-ci.org/parse-community/Parse-SDK-Android.svg?branch=master)](https://travis-ci.org/parse-community/Parse-SDK-Android) [![Join Chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/ParsePlatform/Chat) [![](https://jitpack.io/v/parse-community/Parse-SDK-Android.svg)](https://jitpack.io/#parse-community/Parse-SDK-Android)
